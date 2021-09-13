@@ -1,11 +1,11 @@
-package patterns.creational.Prototype;
+package patterns.creational.prototype;
 
 import java.util.Hashtable;
 
-import patterns.creational.Prototype.entity.Circle;
-import patterns.creational.Prototype.entity.Rectangle;
-import patterns.creational.Prototype.entity.Shape;
-import patterns.creational.Prototype.entity.Square;
+import patterns.creational.prototype.entity.Circle;
+import patterns.creational.prototype.entity.Rectangle;
+import patterns.creational.prototype.entity.Shape;
+import patterns.creational.prototype.entity.Square;
 
 public class ShapeCache {
 

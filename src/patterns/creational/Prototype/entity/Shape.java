@@ -1,4 +1,4 @@
-package patterns.creational.Prototype.entity;
+package patterns.creational.prototype.entity;
 
 public abstract class Shape implements Cloneable {
 

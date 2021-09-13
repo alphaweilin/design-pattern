@@ -1,6 +1,6 @@
-package patterns.creational.Prototype;
+package patterns.creational.prototype;
 
-import patterns.creational.Prototype.entity.Shape;
+import patterns.creational.prototype.entity.Shape;
 
 public class PrototypePatternDemo {
 	public static void main(String[] args) {
